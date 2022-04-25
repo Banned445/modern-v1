@@ -2,9 +2,12 @@
     "manifest": {
         "author": "Banned#1000",
         "version": "1.0.0",
-        "name": "Modernised Blue"
+        "name": "Modernised Blue",
+        "updater": "https:\/\/raw.githubusercontent.com\/Banned445\/modern-v1\/main\/Black%20N%20Blue.json"
     },
-    "background": {},
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/389807682405662730\/961405853255217202\/1649286050828.jpg"
+    },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/923981584271548436\/961206169341403206\/Roboto-Regular.ttf"
     },
